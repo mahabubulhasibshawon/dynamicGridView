@@ -16,5 +16,5 @@ Flutter's `GridView` is a versatile widget that allows you to create a 2D array 
 
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+[online documentation](https://docs.flutter.dev/cookbook/lists/grid-lists), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
